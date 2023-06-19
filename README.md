@@ -6,7 +6,7 @@ In a nutshell, the project was about applying Green's function approaches and co
 (i) emulating the precipitation predictions of a global climate model given sea surface temperature anomalies, and 
 (ii) making hindcasts of precipitation in different regions using historical sea surface temperature data.
 
-The repository rather messy as it contains most of the code I used to carry out the project. I am grateful towards my supervisors, Andrew Williams and Dr. Duncan Watson-Parris, for their time and help.
+The repository is rather messy as it contains most of the code I used to carry out the project. I am grateful towards my supervisors, Andrew Williams and Dr. Duncan Watson-Parris, for their time and help.
 
 Feel free to read my project report, ```JW_MPhys_report_Jun_12.pdf```, to learn more about the project.
 
