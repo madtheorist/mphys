@@ -1,5 +1,8 @@
-# mphys
+# MPhys Project
 
-This is a repository for my Masters project on predicting regional precipitation anomalies from regional sea surface temperature perturbations.
+This is a (rather messy) repository for my Masters project on predicting regional precipitation anomalies from regional sea surface temperature perturbations.
 
-Health warning - this repository is rather disorganised!
+Due to file size and data access restrictions, much of the raw data is not included.
+
+For more information, feel free to read my project report!
+
