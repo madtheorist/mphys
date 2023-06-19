@@ -4,4 +4,6 @@ This is a repository for my masters project at the University of Oxford, "Predic
 
 For more information about the project, feel free to read my project report, ```JW_MPhys_report_Jun_12.pdf```.
 
+![mphys](readme_picture.png "project_picture")
+
 Due to file size and data access restrictions, much of the raw data is not included here.
